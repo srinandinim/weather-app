@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="zip_code">Zip Code:</string>
+    <string name="enter">Enter</string>
+</resources>
